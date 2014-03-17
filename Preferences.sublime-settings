@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme/Visual Studio.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SideBarEnhancements",
+		"AdvancedNewFile"
+	],
+	"tab_size": 4,
+	"theme": "Piatto Light.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
